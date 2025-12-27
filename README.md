@@ -5,6 +5,10 @@ This project implements **BLIP (Bootstrapping Language–Image Pretraining)** **
 Unlike most BLIP implementations that rely on pretrained checkpoints, **this project is trained end-to-end from random initialization**, with a focus on architectural understanding, training dynamics, and evaluation behavior.
 
 ---
+## model results 
+<img width="1909" height="1055" alt="image" src="https://github.com/user-attachments/assets/bd98a5d4-4a76-4e6c-a751-63d3d79a4109" />
+
+<img width="1049" height="865" alt="image" src="<img width="1897" height="1053" alt="image" src="https://github.com/user-attachments/assets/94a6d690-5862-49bb-bcc5-988cfd67457c" />
 
 ## 🔍 Project Objectives
 
@@ -154,10 +158,7 @@ These observations align with findings from the original BLIP paper.
 - **COCO Captions Dataset**
 
 ---
-<img width="1909" height="1055" alt="image" src="https://github.com/user-attachments/assets/bd98a5d4-4a76-4e6c-a751-63d3d79a4109" />
 
-<img width="1049" height="865" alt="image" src="<img width="1897" height="1053" alt="image" src="https://github.com/user-attachments/assets/94a6d690-5862-49bb-bcc5-988cfd67457c" />
-" />
 ## 🧑‍💻 Author
 
 **Agniva Ghosh**  
